@@ -1,0 +1,91 @@
+
+body {
+    font-family: 'Montserrat', sans-serif;
+ 
+
+background: #FFFFFF;
+box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
+}
+/* main slyles */
+.main1 {
+    
+     position: absolute;
+     width: 1200px;
+     height: 1319px;
+     left: 32px;
+     top: 21px;
+     
+     background: #FFFFFF;
+     box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
+    
+}
+/* sidebar slyles */
+.sidebar {
+    background: #1E2939;
+    position: absolute;
+width: 370px;
+height: 1308px;
+left: 42px;
+top: 32px;
+}
+.user {
+    position: absolute;
+    width: 400px;
+    height: 232px;
+    left: 496px;
+    top: 72px;
+    font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 24px;
+/* or 171% */
+
+
+color: #595959;
+}   
+.project {
+  
+position: absolute;
+width: 485px;
+height: 107px;
+left: 493px;
+top: 366px;
+
+
+
+
+
+
+
+}
+.company-1 {
+    /* Work Experience */
+    position: absolute;
+    width: 525px;
+    height: 213px;
+    left: 493px;
+    top: 531px;
+}
+.company-2{
+    position: absolute;
+width: 525px;
+height: 150px;
+left: 496px;
+top: 797px;
+}
+.company-3{
+    position: absolute;
+    width: 525px;
+    height: 126px;
+    left: 498px;
+    top: 964px;
+    
+}
+.education{
+  position: absolute;
+width: 327px;
+height: 114px;
+left: 496px;
+top: 1148px;
+}
